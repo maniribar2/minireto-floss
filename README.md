@@ -1,4 +1,4 @@
-# Aplicación de informes · Práctica de EGC
+# Aplicación de informes · Práctica de EGCweg
 
 Esta aplicación Python se ha utilizado hasta ahora de forma interna en una empresa ficticia. La empresa está estudiando **publicarla y compartirla con la comunidad**, pero todavía no ha decidido con qué licencia hacerlo.
 
