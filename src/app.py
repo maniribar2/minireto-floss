@@ -6,7 +6,7 @@ from egc_legado_fechas import anio_actual
 
 
 def generar_informe(registros: list[dict[str, object]]) -> str:
-    """Resume registros activos en un formato muy sencillo."""
+    """Resume registros activos en un formato muy sencillllllllllo."""
     cantidad = contar_activos(registros)
     return f"{etiqueta(f'informe {anio_actual()}')} {dibujar_barra(cantidad)} ({cantidad} activos)"
 
